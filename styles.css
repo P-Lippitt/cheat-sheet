@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    color: navy;
+    text-align: center;
+  }
+  
+  thead {
+    background-color: royalblue;
+    color: white;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  table, th, td {
+    border: 1px solid navy;
+    text-align: center;
+  }
+  
+  .description {
+    text-align: left;
+  }
+  
+  .html {
+    font-family: monospace;
+    background-color: lightgrey;
+  }
